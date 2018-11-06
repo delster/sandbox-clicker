@@ -1,0 +1,2 @@
+# sandbox-clicker
+Mechanics Sandbox
