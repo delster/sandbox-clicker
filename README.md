@@ -1,2 +1,3 @@
-# sandbox-clicker
-Mechanics Sandbox
+# Sandbox Clicker
+---
+Mechanics Sandbox for other projects.
